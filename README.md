@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-* 🌍  I'm based in Ahmedabad, India
-* ✉️  You can contact me at [karanlokchandani@gmail.com](mailto:karanlokchandani@gmail.com)
 * 🚀  I'm currently working on [Quizify](http://quizify.streamlit.app/)
 * 🧠  I'm learning Solidity
 * 🤝  I'm open to collaborating on anything and everything that seems fun!
