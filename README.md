@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
-<h3 align="center">Just a avg developer</h3>
+<h3 align="center">Just an avg developer</h3>
 
 - 🔭 I’m currently working on [Ventus](https://github.com/PhantomInTheWire/Ventus)
 
