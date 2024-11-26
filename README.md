@@ -39,8 +39,7 @@
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img height="150" src="https://media1.tenor.com/m/Al4SzhEF_vIAAAAd/gojo-satoru.gif" align="right" />
 
-  
-  ###
+###
   
    <a href="https://www.linkedin.com/in/karan-lokchandani/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=141321&logoColor=FE438E&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
