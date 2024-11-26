@@ -16,6 +16,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="rust logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
