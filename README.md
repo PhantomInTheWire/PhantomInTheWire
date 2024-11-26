@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">life is hard</h6>
+<h6 align="left">life is hard fr</h6>
 
 ###
 
