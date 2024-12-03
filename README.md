@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">life is hard fr</h6>
+<h6 align="left">life is hard fr, fuck endsems</h6>
 
 ###
 
