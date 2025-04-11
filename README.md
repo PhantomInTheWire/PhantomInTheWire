@@ -40,14 +40,6 @@
   <img height="150" width="150" src="https://media1.tenor.com/m/Al4SzhEF_vIAAAAd/gojo-satoru.gif" align="right" />
 
 ###
-  
-   <a href="https://www.linkedin.com/in/karan-lokchandani/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=141321&logoColor=FE438E&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://linktr.ee/KaranLokchandani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=141321&logoColor=FE438E&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
-
 </div>
 
 
