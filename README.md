@@ -12,7 +12,6 @@
 </div>
 
 ###
-<br>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
   <img width="12" />
@@ -38,8 +37,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img height="150" width="150" src="https://media1.tenor.com/m/Al4SzhEF_vIAAAAd/gojo-satoru.gif" align="right" />
-
 ###
+
 </div>
 
 
@@ -51,4 +50,3 @@
 
 
 ###
-   
