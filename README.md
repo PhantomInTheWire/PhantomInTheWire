@@ -41,7 +41,7 @@
 
 </div>
 <div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhantomInTheWire&bg_color=141321&color=FE438E&line=f9826c&point=A9FEF6&area=true&area_color=833ab4&title_color=FE438E&hide_border=true&radius=8&days=25">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhantomInTheWire&bg_color=141321&color=FE438E&line=f9826c&point=A9FEF6&area=true&area_color=833ab4&title_color=FE438E&hide_border=true&radius=8&days=30">
 
 <div>
 
