@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">life is hard fr</h6>
+<h6 align="left">masquerading as a tech bro since 05'</h6>
 
 ###
 <div align="center">
