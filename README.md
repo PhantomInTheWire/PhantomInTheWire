@@ -52,5 +52,4 @@
   <img src="https://raw.githubusercontent.com/PhantomInTheWire/PhantomInTheWire/output/snake.svg" alt="Snake animation">
 </picture>
 
-
 ###
