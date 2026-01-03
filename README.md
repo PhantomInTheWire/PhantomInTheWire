@@ -30,19 +30,7 @@
     <!-- LEFT: icons -->
     <td valign="top" width="60%">
       <div>
-        <img src="https://skillicons.dev/icons?i=rust" height="32" />
-        <img src="https://skillicons.dev/icons?i=go" height="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="32" />
-        <img src="https://skillicons.dev/icons?i=py" height="32" />
-        <img src="https://skillicons.dev/icons?i=cpp" height="32" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="32" />
-        <img src="https://skillicons.dev/icons?i=linux" height="32" />
-        <img src="https://skillicons.dev/icons?i=docker" height="32" />
-        <img src="https://skillicons.dev/icons?i=kubernetes" height="32" />
-        <img src="https://skillicons.dev/icons?i=neovim" height="32" />
-        <img src="https://skillicons.dev/icons?i=typescript" height="32" />
-        <img src="https://skillicons.dev/icons?i=javascript" height="32" />
-      </div>
+        <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=dracula"/>
     </td>
     <!-- RIGHT: anime image -->
     <td valign="top" width="40%" align="center">
