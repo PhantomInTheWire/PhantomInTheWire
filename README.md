@@ -5,44 +5,55 @@
 <h6 align="left">masquerading as a tech bro since 05'</h6>
 
 ###
-<div align="center">
-  <img src="https://stats-karan.vercel.app?user=PhantomInTheWire&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-<div align="center">
-  <img src="https://karan-stats.vercel.app/api/top-langs?username=PhantomInTheWire&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&exclude_repo=github-readme-stats,digitalgarden,karans-digitalgarden,github-readme-streak-stats,Minerva,neura" height="150" alt="languages graph"  />
-</div>
-</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://stats-karan.vercel.app?user=PhantomInTheWire&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5"
+        height="150"
+      />
+    </td>
+    <td>
+      <img
+        src="https://karan-stats.vercel.app/api/top-langs?username=PhantomInTheWire&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&exclude_repo=github-readme-stats,digitalgarden,karans-digitalgarden,github-readme-streak-stats,Minerva,neura"
+        height="150"
+      />
+    </td>
+  </tr>
+</table>
 
 ###
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img height="150" width="150" src="https://media1.tenor.com/m/Al4SzhEF_vIAAAAd/gojo-satoru.gif" align="right" />
-  
-###
 
-</div>
+<table>
+  <tr>
+    <!-- LEFT: icons -->
+    <td valign="top" width="60%">
+      <div>
+        <img src="https://skillicons.dev/icons?i=rust" height="32" />
+        <img src="https://skillicons.dev/icons?i=go" height="32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="32" />
+        <img src="https://skillicons.dev/icons?i=py" height="32" />
+        <img src="https://skillicons.dev/icons?i=cpp" height="32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="32" />
+        <img src="https://skillicons.dev/icons?i=linux" height="32" />
+        <img src="https://skillicons.dev/icons?i=docker" height="32" />
+        <img src="https://skillicons.dev/icons?i=kubernetes" height="32" />
+        <img src="https://skillicons.dev/icons?i=neovim" height="32" />
+        <img src="https://skillicons.dev/icons?i=typescript" height="32" />
+        <img src="https://skillicons.dev/icons?i=javascript" height="32" />
+      </div>
+    </td>
+    <!-- RIGHT: anime image -->
+    <td valign="top" width="40%" align="center">
+      <img
+        src="https://media1.tenor.com/m/Al4SzhEF_vIAAAAd/gojo-satoru.gif"
+        width="220"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ###
 
