@@ -30,7 +30,7 @@
     <!-- LEFT: icons -->
     <td valign="top" width="60%">
       <div>
-        <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=dracula"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=PhantomInTheWire&row=2&column=3&theme=dracula"/>
     </td>
     <!-- RIGHT: anime image -->
     <td valign="top" width="40%" align="center">
