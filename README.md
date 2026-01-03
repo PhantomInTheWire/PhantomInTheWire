@@ -25,7 +25,7 @@
 
 ###
 
-<table>
+<table align="center">
   <tr>
     <!-- LEFT: icons -->
     <td valign="top" width="60%">
