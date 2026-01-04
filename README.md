@@ -27,10 +27,10 @@
 
 <table align="center">
   <tr>
-    <!-- LEFT: icons -->
+    <!-- LEFT: Trophies -->
     <td valign="top" width="60%">
       <div>
-        <img src="https://github-profile-trophy.vercel.app/?username=PhantomInTheWire&row=2&column=3&theme=dracula"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=PhantomInTheWire&row=2&column=3&theme=darkhub"/>
     </td>
     <!-- RIGHT: anime image -->
     <td valign="top" width="40%" align="center">
